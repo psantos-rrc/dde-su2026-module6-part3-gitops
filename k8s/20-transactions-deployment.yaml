@@ -19,7 +19,7 @@ spec:
         - name: ghcr-creds
       containers:
         - name: transactions
-          image: ghcr.io/psantos-rrc/dde-su2026-module6-part3-source-transactions:7850cade051ddd79b1db064d13e1c28fc0b8061c
+          image: ghcr.io/psantos-rrc/dde-su2026-module6-part3-source-transactions:8262215af7cacbb7823f84655aaa55211960808a
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
